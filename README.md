@@ -1,0 +1,2 @@
+# destinations
+Mock destinations data
